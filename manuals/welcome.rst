@@ -40,7 +40,7 @@ FizeSession 有非常完善的参考文档，且其功能追求简洁明了，�
 ----------------
 
 FizeSession 作为 session 底层管理类库，并不直接对全局变量 `$_SESSION` 进行操作。
-FizeSession 的作用是设置 session 环境，满足系统比会话数据、方式的要求。
+FizeSession 的作用是设置 session 环境，满足系统对会话数据、方式的要求。
 
 
 入门示例
