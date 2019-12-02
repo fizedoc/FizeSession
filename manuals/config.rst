@@ -43,7 +43,7 @@
 
 .. note::
 
-   FizeSession 的配置参数基本和 PHP 底层的 session 方法参数一致，除了一下几点：
+   FizeSession 的配置参数基本和 PHP 底层的 session 方法参数一致，除了以下几点：
    
    - cookie_params 扩展为数组类型。
    - 添加参数 save_handler 。
