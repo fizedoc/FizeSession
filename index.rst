@@ -46,6 +46,14 @@ FizeSession 参考手册
 
 	manuals/donation
 	
+参数配置
+========
+
+.. toctree::
+	:titlesonly:
+
+	manuals/config
+	
 处理器配置
 ==========
 
